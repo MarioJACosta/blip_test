@@ -1,5 +1,3 @@
-# **README.md**
-
 # **Repository Activity Ranking Algorithm**
 
 ## **Overview**
